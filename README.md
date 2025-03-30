@@ -15,3 +15,5 @@ I'm Sleyter Conde, a Computer Engineering student. I enjoy learning new things a
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Conter18&show_icons=true&hide_title=true&count_private=true&hide=prs&bg_color=000000&icon_color=ffffff&title_color=ffffff&text_color=ffffff)
 
 ![GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=Conter18&background=000000&sideNums=ffffff&sideLabels=ffffff&dates=ffffff)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Conter18&layout=compact&bg_color=000000&text_color=ffffff)
